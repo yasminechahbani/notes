@@ -5,6 +5,7 @@
   "randomizeQuestions": true,
   "language": "English",
   "provider": "GOOGLE",
+  "openAIApiKey": " cfa829d ",
   "openAIBaseURL": "https://api.openai.com/v1",
   "openAITextGenModel": "gpt-3.5-turbo",
   "openAIEmbeddingModel": "text-embedding-3-small",
